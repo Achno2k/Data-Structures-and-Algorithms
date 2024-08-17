@@ -1,0 +1,3 @@
+﻿  Heap.cpp
+C:\Users\amank\Desktop\C++ Programs\DSA\Heap\Heap\Heap\Heap.cpp(63,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Heap.vcxproj -> C:\Users\amank\Desktop\C++ Programs\DSA\Heap\Heap\x64\Debug\Heap.exe

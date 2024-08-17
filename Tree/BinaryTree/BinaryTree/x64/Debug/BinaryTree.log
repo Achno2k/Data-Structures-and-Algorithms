@@ -1,0 +1,6 @@
+﻿  BinaryTree.cpp
+C:\Users\amank\Desktop\C++ Programs\DSA\Tree\BinaryTree\BinaryTree\BinaryTree.cpp(176,25): warning C4311: 'type cast': pointer truncation from 'Node *' to 'long'
+C:\Users\amank\Desktop\C++ Programs\DSA\Tree\BinaryTree\BinaryTree\BinaryTree.cpp(176,25): warning C4302: 'type cast': truncation from 'Node *' to 'long'
+C:\Users\amank\Desktop\C++ Programs\DSA\Tree\BinaryTree\BinaryTree\BinaryTree.cpp(184,22): warning C4312: 'type cast': conversion from 'long' to 'Node *' of greater size
+C:\Users\amank\Desktop\C++ Programs\DSA\Tree\BinaryTree\BinaryTree\BinaryTree.cpp(187,26): warning C4312: 'type cast': conversion from 'long' to 'Node *' of greater size
+  BinaryTree.vcxproj -> C:\Users\amank\Desktop\C++ Programs\DSA\Tree\BinaryTree\x64\Debug\BinaryTree.exe
